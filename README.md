@@ -7,19 +7,23 @@ A simple and modern Java-based web application that accepts an acronym and retur
 - Accepts user input for acronyms
 - Fetches corresponding full forms from a MySQL database
 - Clean and user-friendly UI using HTML, CSS, and JavaScript
-- Built using only JSP and JDBC (no servlets, no XML configuration)
+- Built using only JSP and JDBC
+
 
 ## 💡 Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** JSP, JDBC (with `jm.jar`)
 - **Database:** MySQL
+- **Server:** Apache Tomcat
 
+  
 ## 🙏 Acknowledgements
 
 Special thanks to **Kamal Sir** and **JavaSpark Solutions** for guidance and support throughout the development of this internship task.
 
 ---
+
 
 ## 📌 Screenshots
 
