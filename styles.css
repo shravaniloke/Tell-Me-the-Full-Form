@@ -6,13 +6,11 @@ body {
     margin: 0;
     padding: 50px;
 }
-
 h2 {
     font-size: 28px;
     color: #2c3e50;
     margin-bottom: 20px;
 }
-
 form {
     /* display: flex;  */
     background-color: #ffffff;
@@ -21,7 +19,6 @@ form {
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
     margin-bottom: 30px;
 }
-
 input[type="text"] {
     margin: auto;
     padding: 12px 15px;
@@ -32,12 +29,10 @@ input[type="text"] {
     outline: none;
     transition: 0.3s;
 }
-
 input[type="text"]:focus {
     border-color: #007bff;
     box-shadow: 0 0 5px rgba(0,123,255,0.5);
 }
-
 button {
     background-color: #007bff;
     color: white;
@@ -52,7 +47,6 @@ button {
 button:hover {
     background-color: #0056b3;
 }
-
 .result {
     display: flex;
     background-color: #ffffff;
@@ -61,12 +55,10 @@ button:hover {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.08);
 }
-
 .result h2 {
     color: #333;
     margin-bottom: 10px;
 }
-
 .result h1 {
     color: #007bff;
     font-size: 32px;
@@ -80,13 +72,11 @@ body {
     margin: 0;
     padding: 50px;
 }
-
 h2 {
     font-size: 28px;
     color: #2c3e50;
     margin-bottom: 20px;
 }
-
 form {
     display: flex;
     background-color: #ffffff;
@@ -95,7 +85,6 @@ form {
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
     margin-bottom: 30px;
 }
-
 input[type="text"] {
     padding: 12px 15px;
     width: 250px;
@@ -110,7 +99,6 @@ input[type="text"]:focus {
     border-color: #007bff;
     box-shadow: 0 0 5px rgba(0,123,255,0.5);
 }
-
 button {
     background-color: #007bff;
     color: white;
@@ -121,11 +109,9 @@ button {
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
-
 button:hover {
     background-color: #0056b3;
 }
-
 .result {
     display: inline-block;
     background-color: #ffffff;
@@ -134,12 +120,10 @@ button:hover {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.08);
 }
-
 .result h2 {
     color: #333;
     margin-bottom: 10px;
 }
-
 .result h1 {
     color: #007bff;
     font-size: 32px;
