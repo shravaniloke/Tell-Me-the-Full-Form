@@ -1,0 +1,147 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #e3f2fd, #fce4ec);
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+form {
+    /* display: flex;  */
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+input[type="text"] {
+    margin: auto;
+    padding: 12px 15px;
+    width: 250px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+    transition: 0.3s;
+}
+
+input[type="text"]:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0,123,255,0.5);
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    display: flex;
+    background-color: #ffffff;
+    padding: 25px 35px;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.08);
+}
+
+.result h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.result h1 {
+    color: #007bff;
+    font-size: 32px;
+    margin: 0;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #e3f2fd, #fce4ec);
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+input[type="text"] {
+    padding: 12px 15px;
+    width: 250px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+    transition: 0.3s;
+}
+
+input[type="text"]:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0,123,255,0.5);
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 25px 35px;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.08);
+}
+
+.result h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.result h1 {
+    color: #007bff;
+    font-size: 32px;
+    margin: 0;
+}
