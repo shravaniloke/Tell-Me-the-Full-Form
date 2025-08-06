@@ -25,6 +25,6 @@ Special thanks to **Kamal Sir** and **JavaSpark Solutions** for guidance and sup
 ---
 
 
-## 📌 Screenshots
+## 📌 Screenshot
 
 <img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/94b5c44b-6912-486b-9981-5be76d46ed8f" />
